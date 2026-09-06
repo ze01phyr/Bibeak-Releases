@@ -8,7 +8,7 @@
 | --- | --- |
 | 安卓版 1.0.0 | [Android](https://github.com/ze01phyr/Bibeak-Releases/releases/tag/android-v1.0.0) |
 | Windows 零件识别版 2.1.2 | [零件识别](https://github.com/ze01phyr/Bibeak-Releases/releases/tag/parts-v2.1.2) |
-| Windows 羽瞰点 3.0.0（Float） | [Float](https://github.com/ze01phyr/Bibeak-Releases/releases/tag/float-v3.0.0) |
+| Windows 羽瞰点 3.0.2（Float） | [Float](https://github.com/ze01phyr/Bibeak-Releases/releases/tag/float-v3.0.2) |
 
 请在对应发布页的 Assets 中下载 APK 或 EXE。GitHub 自动生成的 Source code 压缩包仅包含本下载仓库的.md说明文件。
 
