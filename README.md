@@ -6,6 +6,8 @@
 
 | 版本 | 下载页 |
 | --- | --- |
+| Windows 羽瞰点 4.0.0 | [羽瞰点](https://github.com/ze01phyr/Bibeak-Releases/releases/tag/yukanten-v4.0.0) |
+| Windows Bibeak启动器 4.0.0 | [启动器](https://github.com/ze01phyr/Bibeak-Releases/releases/tag/bibeak-v4.0.0) |
 | 安卓版 1.0.0 | [Android](https://github.com/ze01phyr/Bibeak-Releases/releases/tag/android-v1.0.0) |
 | Windows 零件识别版 2.1.2 | [零件识别](https://github.com/ze01phyr/Bibeak-Releases/releases/tag/parts-v2.1.2) |
 | Windows 羽瞰点 3.0.2（Float） | [Float](https://github.com/ze01phyr/Bibeak-Releases/releases/tag/float-v3.0.2) |
