@@ -6,13 +6,14 @@
 
 | 版本 | 下载页 |
 | --- | --- |
-| Windows 羽瞰点 4.0.4 | [羽瞰点](https://github.com/ze01phyr/Bibeak-Releases/releases/tag/yukanten-v4.0.4) |
+| Windows 羽瞰点-集成战略 5.0.0 | [安装包和便携版](https://github.com/ze01phyr/Bibeak-Releases/releases/tag/yukanten-v5.0.0) |
+| Windows 羽瞰点 4.x（历史版本） | [4.0.4](https://github.com/ze01phyr/Bibeak-Releases/releases/tag/yukanten-v4.0.4) · [4.0.3](https://github.com/ze01phyr/Bibeak-Releases/releases/tag/yukanten-v4.0.3) · [4.0.0](https://github.com/ze01phyr/Bibeak-Releases/releases/tag/yukanten-v4.0.0) |
 | Windows Bibeak启动器 4.0.0 | [启动器](https://github.com/ze01phyr/Bibeak-Releases/releases/tag/bibeak-v4.0.0) |
 | 安卓版 1.0.0 | [Android](https://github.com/ze01phyr/Bibeak-Releases/releases/tag/android-v1.0.0) |
 | Windows 零件识别版 2.1.2 | [零件识别](https://github.com/ze01phyr/Bibeak-Releases/releases/tag/parts-v2.1.2) |
 | Windows 羽瞰点 3.0.2（Float） | [Float](https://github.com/ze01phyr/Bibeak-Releases/releases/tag/float-v3.0.2) |
 
-请在对应发布页的 Assets 中下载 APK 或 EXE。GitHub 自动生成的 Source code 压缩包仅包含本下载仓库的.md说明文件。
+请在对应发布页的 Assets 中下载 APK、EXE 或 Windows x64 便携 ZIP。GitHub 自动生成的 Source code 压缩包仅包含本下载仓库的.md说明文件。
 
 Windows 可使用 PowerShell：`Get-FileHash -Algorithm SHA256 <文件路径>`。
 
